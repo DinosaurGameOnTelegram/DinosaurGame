@@ -1,6 +1,6 @@
 # DinosaurGame
 
-Dinosaur Game it is the game, that was well-known a few centuries ago..
+Dinosaur Game it is the game, that was well-known a few decades ago..
 
 <b>The main rule:</b>
 
