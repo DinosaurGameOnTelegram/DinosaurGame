@@ -10,4 +10,4 @@ Others players must to guess the word, and if it will be right, bot will say tha
 
 In that game we try to implement <b>very</b> simple synchronization input.
 
-Also, we only begginer in programming, so you can recommend something and we try to change that.
+Also, we only begginers in programming, so you can recommend something and we try to change that.
