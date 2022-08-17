@@ -52,6 +52,7 @@ cmake_install.cmake
 #vscode files
 .vscode/
 .clangd
+build/
 
 #this program
 token.txt
